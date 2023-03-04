@@ -4,6 +4,16 @@
     background-size: cover;
     height: 100%;
 }
+
+#write-review
+{
+    margin-left: -50px;
+}
+#product-price
+{
+    font-size: 28px;
+    color: rgb(243, 49, 49);
+}
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
